@@ -55,6 +55,7 @@ The system updates bids in real-time using **AJAX + XML polling**, and includes 
 
 ---
 
+```
 ## 📁 Folder Structure
 
 artbid-studio/
@@ -79,7 +80,7 @@ artbid-studio/
 ├── sql/
 │   └── artgallery.sql
 └── README.md
-
+```
 ---
 
 ## 🗄️ Database Setup
